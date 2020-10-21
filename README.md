@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# flutter_practice
 flutter practice
 =======
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
@@ -30,7 +28,3 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-<<<<<<< HEAD
->>>>>>> 9210b64... initial
-=======
->>>>>>> 4f0f353... Update README.md
